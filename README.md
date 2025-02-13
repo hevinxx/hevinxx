@@ -9,7 +9,7 @@ Android Software Engineer | Since 2018
 
 - Bachelor of Arts in Korean Language & Literature, Korea University | 2012 ~ 2019
 - Bachelor of Science in Mathematics, Korea University | 2012 ~ 2019
-- Hanyoung Foreign Language High School, Spanish Department | 2008 ~ 2011
+- Spanish Department, Hanyoung Foreign Language High School | 2008 ~ 2011
 
 ## Experience
 
@@ -100,7 +100,7 @@ Prototype creation of 오늘회 driver app
 ### Pepper Note [🔗](https://maily.so/pepper.note)
 
 A newsletter sharing fun facts
-- Over 100 newsletters sent / Over 1,500 subscribers / Approximately 300,000 cumulative views
+- Over 100 newsletters sent / Over 1,500 subscribers / Over 300,000 cumulative views
 
 ### Composition
 

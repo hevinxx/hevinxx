@@ -105,9 +105,9 @@ A newsletter sharing fun facts
 ### Composition
 
 Dreamed of becoming a musician before becoming a developer
-- [이런 노래](https://www.melon.com/album/music.htm?albumId=2703325)
-- [끝](https://www.melon.com/album/detail.htm?albumId=10046097](http://www.melon.com/album/detail.htm?albumId=10046097))
-- [용건만 간단히](https://www.melon.com/album/detail.htm?albumId=10163139)
+- [이런 노래](https://youtu.be/iraqAN7sH9g?si=MGCakUEzfpjWSOwm)
+- [끝](https://youtu.be/0vbhKz5D6Xs?si=SlAf5lDa06CPoEDW)
+- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q?si=YicGqK85tE5r7BlZ)
 - [SoundCloud](https://soundcloud.com/hevinxx)
 
 ### AI Art

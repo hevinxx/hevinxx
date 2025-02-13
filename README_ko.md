@@ -105,10 +105,10 @@ Composable이 유저에게 일정 비율 이상 노출되었을 경우를 감지
 ### 작곡
 
 개발자가 되기 전, 뮤지션이 되길 꿈꿔 작곡 활동
-- [이런 노래](https://www.melon.com/album/music.htm?albumId=2703325)
-- [끝](https://www.melon.com/album/detail.htm?albumId=10046097)
-- [용건만 간단히](https://www.melon.com/album/detail.htm?albumId=10163139)
-- [사운드 클라우드](https://soundcloud.com/hevinxx)
+- [이런 노래](https://youtu.be/iraqAN7sH9g?si=MGCakUEzfpjWSOwm)
+- [끝](https://youtu.be/0vbhKz5D6Xs?si=SlAf5lDa06CPoEDW)
+- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q?si=YicGqK85tE5r7BlZ)
+- [SoundCloud](https://soundcloud.com/hevinxx)
 
 ### AI Art
 

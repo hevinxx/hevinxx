@@ -71,11 +71,13 @@ A dating app
 
 A Tamagotchi game app
 - Developed during an in-house hackathon at Dano with two designers and a front-end developer in December 2019
+- Used React Native
 
 ### Corporate collaboration project with 오늘식탁, Ltd. | September 2018
 
 Prototype creation of 오늘회 driver app
 - Conducted a collaboration project with 오늘식탁, Ltd. during the Code States Immersive Course in September 2018
+- Used React Native
 
 ## Skills
 
@@ -114,9 +116,3 @@ Dreamed of becoming a musician before becoming a developer
 
 Engaging in art activities using ChatGPT
 - [Instagram](https://www.instagram.com/hevin_aug7)
-
-### Others
-
-- Mensa member
-- Sports such as chess, boxing, basketball, wrestling, running
-- Consuming content like books, comics, movies, games, music, theater, board games

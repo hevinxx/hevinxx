@@ -71,18 +71,20 @@ Composable이 유저에게 일정 비율 이상 노출되었을 경우를 감지
 
 다마고치 게임 앱
 - 2019년 12월 디자이너 2명, 프론트엔드 개발자 1명과 다노 사내 해커톤에서 개발
+- React Native 활용
 
 ### (주)오늘식탁과 기업협업 프로젝트 | 2018년 9월
 
 오늘회 드라이버 앱 프로토타입 제작
 - 2018년 9월 코드스테이츠 이머시브 코스 수강 과정 중 (주)오늘식탁과 협업 프로젝트 진행
+- React Native 활용
 
 ## 기술
 
 ### 익숙함
 
 - Kotlin
-- Android, Jetpack Compose, RX, Retrofit2, Glide, Koin
+- Android, Jetpack Compose, RX, Coroutine, Retrofit2, Glide, Koin
 - Flutter
 - MVVM
 - Github, Bitbucket, Jira, Zeplin, Figma, Slack, Gather
@@ -90,7 +92,7 @@ Composable이 유저에게 일정 비율 이상 노출되었을 경우를 감지
 ### 경험해 봄
 
 - Java, Scala, JavaScript, TypeScript, Python, Dart
-- Coroutine, Hilt, Coil, Jetpack Navigation
+- Hilt, Coil, Jetpack Navigation
 - MVP
 - PostgreSQL, Firebase Realitme Database, Room
 - Socket.IO, React Native, AWS, Docker, Node.js, Express, Sequelize, Chai
@@ -114,9 +116,3 @@ Composable이 유저에게 일정 비율 이상 노출되었을 경우를 감지
 
 챗GPT를 활용하여 미술 활동
 - [인스타그램](https://www.instagram.com/hevin_aug7)
-
-### 기타
-
-- 멘사 회원
-- 체스, 복싱, 농구, 레슬링, 달리기 등 스포츠
-- 책, 만화, 영화, 게임, 음악, 연극, 보드게임 등 컨텐츠 소비

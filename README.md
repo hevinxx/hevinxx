@@ -95,12 +95,12 @@ Developed a personalized workout subscription service.
 
 ## Side Projects
 
-### VisibilityTracker
+### VisibilityTracker | [Link](https://github.com/hevinxx/visibility-tracker)
 **Open Source Library** | 2023 - Present
 
 A library that accurately measures item visibility within nested scrolls in Jetpack Compose. Designed and open-sourced a solution that didn't exist in the Compose ecosystem at the time.
 
-### 10p
+### 10p | [Google Play](https://play.google.com/store/apps/details?id=io.hevinxx.one_o_p) / [App Store](https://apps.apple.com/kr/app/10p/id1671311718)
 **Reading Log App** | Jan 2023 - Present
 
 A reading log app developed with Flutter. Solo project covering planning, design, development, and operations.
@@ -110,12 +110,12 @@ A reading log app developed with Flutter. Solo project covering planning, design
 
 Developed Flutter app and Node.js/TypeScript backend. Implemented real-time chat using Socket.IO.
 
-### hn-summary-and-translate
+### hn-summary-and-translate | [Link](https://github.com/hevinxx/hn-summary-and-translate)
 **Hacker News Summary/Translation Service** | 2024
 
 A service that summarizes top Hacker News articles, translates them to a configured language, and delivers via RSS. Built with vibe coding.
 
-### baby-future-face-generator
+### baby-future-face-generator | [Link](https://babysfutureface.com/)
 **AI Baby Future Face Prediction** | 2024
 
 A web service that predicts a baby's future appearance using AI, based on parents' faces, baby's face, and current age. Built with vibe coding.

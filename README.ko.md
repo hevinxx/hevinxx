@@ -95,12 +95,12 @@
 
 ## 사이드 프로젝트
 
-### VisibilityTracker
+### VisibilityTracker | [링크](https://github.com/hevinxx/visibility-tracker)
 **오픈소스 라이브러리** | 2023년 - 현재
 
 Jetpack Compose 환경에서 중첩 스크롤 내 아이템의 가시성(Visibility)을 정확히 측정하는 라이브러리. 당시 Compose 생태계에 존재하지 않던 솔루션을 직접 설계하고 오픈소스로 공개.
 
-### 10p
+### 10p | [Google Play](https://play.google.com/store/apps/details?id=io.hevinxx.one_o_p) / [App Store](https://apps.apple.com/kr/app/10p/id1671311718)
 **독서 기록 앱** | 2023년 1월 - 현재
 
 Flutter로 개발한 독서 기록 앱. 기획, 디자인, 개발, 운영까지 1인 진행.
@@ -110,12 +110,12 @@ Flutter로 개발한 독서 기록 앱. 기획, 디자인, 개발, 운영까지 
 
 Flutter 앱 개발 및 Node.js, TypeScript 기반 백엔드 개발. Socket.IO를 활용한 실시간 채팅 기능 구현.
 
-### hn-summary-and-translate
+### hn-summary-and-translate | [링크](https://github.com/hevinxx/hn-summary-and-translate)
 **해커뉴스 요약/번역 서비스** | 2024년
 
 해커뉴스 상위 기사를 요약하고 설정한 언어로 번역하여 RSS로 발송하는 서비스. 바이브 코딩으로 개발.
 
-### baby-future-face-generator
+### baby-future-face-generator | [링크](https://babysfutureface.com/)
 **AI 아기 미래 얼굴 예측** | 2024년
 
 부모와 아기의 얼굴, 현재 나이를 입력하면 AI가 아기의 미래 얼굴을 예측해주는 웹서비스. 바이브 코딩으로 개발.

@@ -1,129 +1,155 @@
-# 문해빈
+# 문해빈 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hevinxx/hevinxx/blob/main/README.md)
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/hevinxx/hevinxx/blob/main/README.md)
+**Android Developer | 2018~**
 
-안드로이드 소프트웨어 엔지니어 | 2018년 ~  
-[https://linktr.ee/hevinxx](https://linktr.ee/hevinxx)  
-[https://hevinxx.github.io](https://hevinxx.github.io/)  
-[hevinxx@gmail.com](mailto:hevinxx@gmail.com)
+> 국어국문학과 수학을 전공하고 뮤지션을 꿈꾸다 개발자가 되었습니다.
+> 서로 다른 분야들이지만 모두 일종의 '언어'라는 공통점이 있습니다.
+> 코드는 컴퓨터가 읽기 위한 것이 아니라 사람이 읽기 위한 것이라고 믿습니다.
+> 가독성 높은 코드로 개발자와 소통하고, 비개발자와도 명확하게 커뮤니케이션하는 개발자입니다.
 
-국어국문학과 수학을 전공하고 뮤지션을 꿈꾸다 개발자가 되었습니다. 서로 다른 분야들이지만 공통된 특성은 모두 일종의 언어라는 점입니다. 코드는 컴퓨터가 읽기 위한 것이 아니라 사람이 읽기 위한 것이라고 믿습니다. 또 엔지니어의 일은 프로그램을 만드는 일이 아니라 코드를 만드는 일이라 생각합니다. 그래서 '가독성'을 중요하게 여기며 일하고 있습니다. 읽기 좋은 코드를 통해 개발자와 소통을 잘하는 것 뿐만 아니라, 비개발자와도 가장 알기 쉽게 커뮤니케이션을 잘하는 개발자로 몸담았던 회사들에서 인정받아 왔습니다.
+---
+
+## 연락처
+
+- **Email:** hevinxx@gmail.com
+- **GitHub:** [github.com/hevinxx](https://github.com/hevinxx)
+- **Blog:** [hevinxx.github.io](https://hevinxx.github.io/)
+
+---
 
 ## 기술 스택
 
 ### 익숙함
-- Android
-- Kotlin
-- Jetpack Compose, RX, Coroutine, Hilt, Retrofit2, Glide
-- MVVM
-- Github, Bitbucket, Jira, Zeplin, Figma, Slack, Gather
+- **플랫폼:** Android
+- **언어:** Kotlin
+- **라이브러리 및 프레임워크:** Jetpack Compose, RxJava, Coroutines, Hilt, Retrofit2, Glide
+- **아키텍처:** MVVM
 
 ### 경험해 봄
-- Flutter
-- Java, Scala, JavaScript, TypeScript, Python, Dart
-- Koin, Coil, Jetpack Navigation
-- MVP
-- PostgreSQL, Firebase Realitme Database, Room, Realm
-- Socket.IO, React Native, AWS, Docker, Node.js, Express, Sequelize, Chai, Spark
+- **플랫폼:** Flutter
+- **언어:** Java, Scala, JavaScript, TypeScript, Python, Dart
+- **라이브러리 및 프레임워크:** Koin, Coil, Jetpack Navigation, Socket.IO, React Native, Node.js, Express, Sequelize, Chai, Spark
+- **아키텍처:** MVP, MVI
+- **DB:** PostgreSQL, Firebase Realtime Database, Room, Realm
+- **인프라:** AWS, Docker
 
-## 주요 프로젝트
+---
 
-### Jetpack Compose 마이그레이션 @바비톡 | 2024년
+## 경력
 
-- 안드로이드 뷰 기반으로 되어 있던 앱을 1년 여에 걸쳐 Jetpack Compose로 마이그레이션
-- 특히 RecyclerView에 얽혀 있던 각종 기능들을 전담하여 리팩토링
-- 기존의 로직을 Jetpack Compose에 맞게 '해석'하는 데에 그치지 않고, 명령형으로 구현되어 있던 기능을 선언형으로, 함수형 프로그래밍에 걸맞게 '번역'하는 과정이 필요했음
+### (주)바비톡
+**Android Developer** | 2023년 5월 - 현재
 
-### 모션형 배너 @바비톡 | 2023년 9월(안드로이드 뷰), 2024년 4월 ~ 5월(Jetpack Compose)
+성형 수술 플랫폼 '바비톡' 앱의 안드로이드 개발
 
-- 고객이 등록한 이미지에 애니메이션을 적용하여 화려한 효과를 부여
-- 처음엔 안드로이드 뷰를 기반으로 개발하여, 이미지 뷰를 포함한 뷰홀더에 개발하였으나 후에 앱을 Jetpack Compose로 마이그레이션 하면서 Jetpack Compose 기반으로 다시 개발
-- 안드로이드 뷰 기반 개발 시에는 ImageMatrix를 조작하는 방식으로 구현
-- Jetpack Compose 기반 개발 시에는 ContentScale을 커스텀 구현
-- 이미지 캐시에 대한 이해가 필요했던 작업
+#### 파트너 사일로 — 광고 효율화 및 병원 사이드 기능 개발
 
-### 만보기 기능 @킬로(밀리그램 앱) | 2023년 1월
+- **모션형 배너 개발:** 병원이 등록한 이미지에 커스텀 애니메이션을 적용하여 광고 효과를 극대화하는 기능 구현
+- **Visibility Tracker 오픈소스 개발:** 중첩된 스크롤 환경에서 배너 노출 영역을 정확히 측정하는 라이브러리 개발 및 오픈소스 공개. 당시 Jetpack Compose 생태계에 존재하지 않던 솔루션을 직접 설계하고 구현
 
-- Service, Broadcast Receiver 등의 안드로이드 컴포넌트를 활용하여 만보기 기능을 직접 구현
-- Realm DB를 활용해 디바이스에 걷기 기록을 저장하고 이를 서버와 싱크
+#### 팀 프로젝트 — 기술 부채 해소 및 아키텍처 개선
 
-### 식단, 운동 데이터 공유 기능 @킬로(밀리그램 앱) | 2022년 5월
+- **Jetpack Compose 마이그레이션:** 1년여에 걸친 마이그레이션 작업을 성공적으로 완료
+- **멀티모듈화:** 앱 아키텍처 개선을 위한 멀티모듈화 작업 진행 중
 
-- 유저의 식단 및 운동 데이터를 모아 이미지를 구성하여, 세 가지 타입의 이미지로 외부에 공유할 수 있게 한 기능
-- 이미지를 구성하는 데에는 Jetpack Compose 활용
-- 다양한 데이터를 한 데 모으면서, 각 데이터를 포함, 제외하는 등의 조작을 다양한 상황에서 오류없이 구현하는 데에 MVVM 구조가 큰 도움이 됨
+#### AI 퍼실리테이터 — 사내 AI 도구 도입 및 전파
 
-### 인앱 결제 기능 @킬로(밀리그램 앱) | 2022년 3월 ~ 4월
+- 최신 AI 도구를 빠르게 습득하고 팀원들에게 지식을 전파하는 역할 수행
+- **사내 발표:** 'AI 코드 에디터 Cursor 사용기', '고군분투 MCP 시행착오기', 'Spec Driven Development' 등
+- **Figma MCP 활용 개선 오픈 프로젝트:** 클라이언트 앱 개발 생산성 향상을 위한 Figma MCP 워크플로우 개선 프로젝트 리드
+- **SDD(Spec Driven Development) 활용 닮은꼴 연예인 찾기 기능 개발:** AI 기반 얼굴 분석 기능 개발에 참여
 
-- 구독 결제를 통해 밀리그램 앱의 프로 기능을 해금
-- 유저의 결제 여부가 앱 내 모든 화면에서 알맞게 싱크되어 각 기능을 보여주거나 감춤
-- 오류 처리, 리트라이 로직 등 구현
+---
 
-### 다노핏 @다노 | 2021년 6월 ~ 9월
+### (주)킬로
+**Android Developer (Solo)** | 2022년 2월 - 2023년 1월
 
-- 챗봇을 개발하여 이를 통해 유저의 체력 수준, 목표 강도, 운동 경험 등을 파악
-- 챗봇 구현에는 연결 리스트, 큐와 같은 자료 구조에 관한 지식이 큰 도움이 됨
-- 챗봇은 Socket.IO를 기반으로 개발
-- 구독 서비스를 통해 운동 영상을 포함한 다양한 식단, 운동 정보를 매일 제공
-- 운동 영상 재생 정보를 기반으로 달성도 계산
+식단 기록 앱 '밀리그램'의 유일한 안드로이드 개발자로서 앱 전반을 담당
 
-## 회사 경력
+- **구글플레이 2022 올해를 빛낸 자기계발 앱 우수상 수상** (재직 중 수상)
+- 국내 식단 기록 분야 앱스토어·구글플레이 동시 1위 달성 앱
+- **식단/운동 데이터 공유 기능 개발:** 유저의 식단 및 운동 데이터를 모아 세 가지 타입의 이미지로 구성하여 외부 공유할 수 있는 기능 구현. 이 기능에서 Jetpack Compose를 시험적으로 도입
 
-### (주)바비톡 | 안드로이드 앱 개발 | 2023년 5월 ~
+---
 
-바비톡: 다운로드 700만 이상, 월간 사용자 수 100만 이상의 성형/시술 정보 앱
-안드로이드 앱 개발 외에도, 'AI 퍼실리테이터'로 활동하며 AI 활용을 통한 생산성 향상 연구 및 발표
+### (주)다노
+**Android Developer** | 2019년 5월 - 2022년 1월  
+**Data Engineer** | 2018년 11월 - 2019년 8월  
+**Backend Developer** | 2018년 10월 - 2018년 11월
 
-### (주)킬로 | 안드로이드 앱 개발 | 2022년 2월 ~ 2023년 1월
+#### Android Developer (2019년 5월 - 2022년 1월)
 
-밀리그램: 구글플레이 2022 올해를 빛낸 자기계발 앱 우수상. 국내 식단 기록 분야 앱스토어, 구글플레이 동시 1위. 누적 100만 다운로드
+##### 다노핏 프로젝트 (2021년 6월 - 9월)
+맞춤형 운동 구독 서비스 개발
+- 초기 온보딩 챗봇 구현: Socket.IO 기반 실시간 챗봇을 통해 유저의 체력 수준, 목표 강도, 운동 경험 등을 파악. 연결 리스트 등 자료구조 지식을 활용한 대화 흐름 설계
+- 맞춤형 운동 영상 및 식단 정보 제공 기능 개발
+- 운동 영상 재생 정보 기반 달성도 계산 및 포인트 보상 시스템 구현
 
-### (주)다노 | 소프트웨어 개발 | 2018년 10월 ~ 2022년 1월
+#### Data Engineer (2018년 11월 - 2019년 8월)
 
-2년 연속 올해의 브랜드 대상 수상 여성 토탈 다이어트 솔루션
-- 2018년 10월: 백엔드 개발자로 입사
-- 2018년 11월 ~ 2019년 8월: 데이터 엔지니어로서 사내 데이터 대시보드 개발
-- 2019년 5월 ~ 2022년 1월: 안드로이드 앱 개발자로서 다노 앱 개발
+**사내 데이터 대시보드 구축:** 기존에 서버 개발자에게 수동으로 데이터를 요청해야 했던 불편함을 해소
+- Apache Spark 기반 데이터 파이프라인 구축, Zeppelin을 통한 시각화
+- 필요한 형태의 그래프가 없어 **Helium 라이브러리 직접 개발**
+
+---
 
 ## 사이드 프로젝트
 
-### [VisibilityTracker](https://github.com/hevinxx/visibility-tracker) | 2024년 3월 ~
-- Jetpack Compose 라이브러리
-- Composable이 유저에게 일정 비율 이상 노출되었을 경우를 감지
-- 개발 과정에서의 고민과 문제점, 해결책, 한계 등을 [블로그](https://hevinxx.github.io/%EA%B0%9C%EB%B0%9C/2024/03/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EB%82%B4-%ED%99%94%EB%A9%B4-%EB%85%B8%EC%B6%9C-%EC%B6%94%EC%A0%81%ED%95%98%EA%B8%B0.html)로 작성
+### VisibilityTracker
+**오픈소스 라이브러리** | 2023년 - 현재
 
-### 10p ([Google Play](https://play.google.com/store/apps/details?id=io.hevinxx.one_o_p) [App Store](https://apps.apple.com/kr/app/10p/id1671311718)) | 2023년 1월 ~
+Jetpack Compose 환경에서 중첩 스크롤 내 아이템의 가시성(Visibility)을 정확히 측정하는 라이브러리. 당시 Compose 생태계에 존재하지 않던 솔루션을 직접 설계하고 오픈소스로 공개.
 
-- 사이드 프로젝트로 홀로 개발한 독서 기록 앱
-- 앱은 Flutter를 통해 구현하였고, 데이터는 Firebase Realtime Database를 활용함
+### 10p
+**독서 기록 앱** | 2023년 1월 - 현재
 
-### 슬립온잇 (현재 운영 중지) | 2020년 6월 ~ 2022년 3월
+Flutter로 개발한 독서 기록 앱. 기획, 디자인, 개발, 운영까지 1인 진행.
 
-- 데이팅 앱으로 플레이스토어, 앱스토어 출시했으나 현재는 운영 중지
-- Flutter를 활용해 앱 개발
-- Node.js와 Typescript 활용해 백엔드 개발
-- Socket.IO를 활용해 채팅 기능 개발
+### 슬립온잇
+**데이팅 앱** | 2020년 6월 - 2022년 3월 (현재 운영 중지)
 
-## 창작 활동
+Flutter 앱 개발 및 Node.js, TypeScript 기반 백엔드 개발. Socket.IO를 활용한 실시간 채팅 기능 구현.
 
-### [페퍼노트](https://maily.so/pepper.note)
+### hn-summary-and-translate
+**해커뉴스 요약/번역 서비스** | 2024년
 
-'그런 건 어떻게 알았어?' 할 때 '그런 것'들을 전해 드리는 뉴스레터. 발송한 뉴스레터 약 200건, 구독자 1,600명 이상, 누적 조회 수 60만 이상.
+해커뉴스 상위 기사를 요약하고 설정한 언어로 번역하여 RSS로 발송하는 서비스. 바이브 코딩으로 개발.
+
+### baby-future-face-generator
+**AI 아기 미래 얼굴 예측** | 2024년
+
+부모와 아기의 얼굴, 현재 나이를 입력하면 AI가 아기의 미래 얼굴을 예측해주는 웹서비스. 바이브 코딩으로 개발.
+
+---
+
+## 기타 활동
+
+### 페퍼노트
+**뉴스레터** | [maily.so/pepper.note](https://maily.so/pepper.note)
+
+'그런 건 어떻게 알았어?' 할 때 '그런 것'들을 전해 드리는 뉴스레터.
+- 발송 뉴스레터 200건 이상
+- 구독자 1,600명 이상
+- 누적 조회 수 60만 이상
 
 ### 작곡
-
-개발자가 되기 전, 뮤지션이 되길 꿈꿔 작곡 활동. 
-- [이런 노래](https://youtu.be/iraqAN7sH9g?si=MGCakUEzfpjWSOwm)
-- [끝](https://youtu.be/0vbhKz5D6Xs?si=SlAf5lDa06CPoEDW)
-- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q?si=YicGqK85tE5r7BlZ)
+개발자가 되기 전, 뮤지션을 꿈꾸며 작곡 활동.
+- [이런 노래](https://youtu.be/iraqAN7sH9g)
+- [끝](https://youtu.be/0vbhKz5D6Xs)
+- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q)
 - [SoundCloud](https://soundcloud.com/hevinxx)
 
-### [AI Art](https://www.instagram.com/hevin_aug7)
+### AI Art
+**Instagram:** [@hevin_aug7](https://www.instagram.com/hevin_aug7)
 
-챗GPT, DALL-E를 활용하여 미술 활동
+ChatGPT, DALL-E를 활용한 AI 아트 활동.
+
+---
 
 ## 학력
 
-- 고려대학교 문학사(국어국문학) | 2012년 ~ 2019년
-- 고려대학교 이학사(수학) | 2012년 ~ 2019년
-- 한영외국어고등학교 스페인어과 | 2008년 ~ 2011년
+### 고려대학교
+**문학사 (국어국문학) / 이학사 (수학) — 이중전공** | 2012년 - 2019년
+
+### 한영외국어고등학교
+**스페인어과** | 2008년 - 2011년

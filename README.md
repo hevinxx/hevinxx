@@ -1,129 +1,155 @@
-# Hevin Mun
+# Hevin Mun [![ko](https://img.shields.io/badge/lang-ko-blue.svg)](https://github.com/hevinxx/hevinxx/blob/main/README.ko.md)
 
-[![ko](https://img.shields.io/badge/lang-ko-blue.svg)](https://github.com/hevinxx/hevinxx/blob/main/README.ko.md)
+**Android Developer | 2018~**
 
-Android Software Engineer | Since 2018  
-[https://linktr.ee/hevinxx](https://linktr.ee/hevinxx)  
-[https://hevinxx.github.io](https://hevinxx.github.io/)  
-[hevinxx@gmail.com](mailto:hevinxx@gmail.com)
+> I studied Korean Literature and Mathematics, dreamed of becoming a musician, and then became a developer.
+> These fields may seem different, but they share one thing in common: they are all languages.
+> I believe code is written for humans to read, not for computers.
+> I write readable code to communicate with developers, and I'm known for communicating clearly with non-developers as well.
 
-I studied Korean Language & Literature and Mathematics and dreamed of becoming a musician before becoming a developer. Although these are different fields, they all share a common characteristic - they are all languages of sorts. I believe code is not written for computers to read, but for humans to read. I also think that an engineer's job is not to create programs, but to create code. That's why I work with 'readability' as a priority. Through readable code, I have been recognized at the companies I've worked for not only as someone who communicates well with developers, but also as someone who communicates most clearly with non-developers.
+---
 
-## Tech Stack
+## Contact
+
+- **Email:** hevinxx@gmail.com
+- **GitHub:** [github.com/hevinxx](https://github.com/hevinxx)
+- **Blog:** [hevinxx.github.io](https://hevinxx.github.io/)
+
+---
+
+## Skills
 
 ### Proficient
-- Android
-- Kotlin
-- Jetpack Compose, RX, Coroutine, Hilt, Retrofit2, Glide
-- MVVM
-- Github, Bitbucket, Jira, Zeplin, Figma, Slack, Gather
+- **Platform:** Android
+- **Language:** Kotlin
+- **Libraries & Frameworks:** Jetpack Compose, RxJava, Coroutines, Hilt, Retrofit2, Glide
+- **Architecture:** MVVM
 
 ### Experienced
-- Flutter
-- Java, Scala, JavaScript, TypeScript, Python, Dart
-- Koin, Coil, Jetpack Navigation
-- MVP
-- PostgreSQL, Firebase Realtime Database, Room, Realm
-- Socket.IO, React Native, AWS, Docker, Node.js, Express, Sequelize, Chai, Spark
+- **Platform:** Flutter
+- **Language:** Java, Scala, JavaScript, TypeScript, Python, Dart
+- **Libraries & Frameworks:** Koin, Coil, Jetpack Navigation, Socket.IO, React Native, Node.js, Express, Sequelize, Chai, Spark
+- **Architecture:** MVP, MVI
+- **DB:** PostgreSQL, Firebase Realtime Database, Room, Realm
+- **Infra:** AWS, Docker
 
-## Major Projects
+---
 
-### Jetpack Compose Migration @Babitalk | 2024
+## Experience
 
-- Migrated an Android view-based app to Jetpack Compose over the course of a year
-- Specifically took charge of refactoring various features intertwined with RecyclerView
-- Required not just 'interpreting' existing logic to fit Jetpack Compose, but 'translating' imperatively implemented features to declarative ones suitable for functional programming
+### Babitalk Inc.
+**Android Developer** | May 2023 - Present
 
-### Motion Banner @Babitalk | September 2023 (Android View), April ~ May 2024 (Jetpack Compose)
+Android development for 'Babitalk', a plastic surgery platform app.
 
-- Applied animations to customer-registered images to provide flashy effects
-- Initially developed based on Android View, implementing it in a ViewHolder including ImageView, but later redeveloped based on Jetpack Compose when migrating the app
-- For Android View-based development, implemented by manipulating ImageMatrix
-- For Jetpack Compose-based development, implemented custom ContentScale
-- Required understanding of image caching
+#### Partner Silo — Ad Optimization & Hospital-Side Features
 
-### Pedometer @Kilo (Milligram App) | January 2023
+- **Motion Banner Development:** Implemented custom animations on hospital-uploaded images to maximize ad effectiveness.
+- **VisibilityTracker Open Source Library:** Developed and open-sourced a library that accurately measures banner visibility in nested scroll environments. Designed and implemented a solution that didn't exist in the Jetpack Compose ecosystem at the time.
 
-- Directly implemented pedometer feature using Android components such as Service and Broadcast Receiver
-- Used Realm DB to store walking records on device and sync with server
+#### Team Projects — Technical Debt Resolution & Architecture Improvement
 
-### Diet and Exercise Data Sharing @Kilo (Milligram App) | May 2022
+- **Jetpack Compose Migration:** Successfully completed a year-long migration to Jetpack Compose.
+- **Multi-Module Architecture:** Currently working on modularizing the app architecture.
 
-- Developed a feature that collects user's diet and exercise data to create and share three types of images externally
-- Used Jetpack Compose to create the images
-- MVVM structure was very helpful in implementing various data operations without errors in different situations
+#### AI Facilitator — Internal AI Tool Adoption & Knowledge Sharing
 
-### In-App Payment @Kilo (Milligram App) | March ~ April 2022
+- Rapidly learning and sharing knowledge about the latest AI tools with team members.
+- **Internal Presentations:** 'AI Code Editor Cursor Review', 'MCP Trial and Error', 'Spec Driven Development', etc.
+- **Figma MCP Improvement Project:** Led an open project to improve client app development productivity using Figma MCP.
+- **Celebrity Look-alike Feature with SDD:** Participated in developing an AI-based facial analysis feature using Spec Driven Development.
 
-- Unlocked Milligram app's pro features through subscription payments
-- Ensured user's payment status is properly synced across all screens in the app to show or hide features
-- Implemented error handling, retry logic, etc.
+---
 
-### DanoFit @Dano | June ~ September 2021
+### Kilo Inc.
+**Android Developer (Solo)** | Feb 2022 - Jan 2023
 
-- Developed a chatbot to assess users' fitness level, target intensity, exercise experience, etc.
-- Knowledge of data structures such as linked lists and queues was very helpful in implementing the chatbot
-- Developed the chatbot based on Socket.IO
-- Provided various diet and exercise information, including workout videos, daily through a subscription service
-- Calculated achievement based on workout video playback information
+Sole Android developer for 'Mealigram', a diet tracking app, responsible for all Android-related work.
 
-## Company Experience
+- **Google Play 2022 Best Self-Improvement App Award** (received during tenure)
+- Achieved #1 ranking on both App Store and Google Play in the Korean diet tracking category.
+- **Diet/Exercise Data Sharing Feature:** Developed a feature that compiles user's diet and exercise data into three types of shareable images. Experimentally introduced Jetpack Compose for this feature.
 
-### Babitalk Co., Ltd. | Android App Development | May 2023 ~
+---
 
-Babitalk: A plastic surgery/procedure information app with over 7 million downloads and 1 million monthly users
-Also serving as an 'AI Facilitator', researching and presenting productivity improvements through AI utilization
+### Dano Inc.
+**Android Developer** | May 2019 - Jan 2022  
+**Data Engineer** | Nov 2018 - Aug 2019  
+**Backend Developer** | Oct 2018 - Nov 2018
 
-### Kilo Co., Ltd. | Android App Development | February 2022 ~ January 2023
+#### Android Developer (May 2019 - Jan 2022)
 
-Milligram: Winner of the Google Play's 2022 Best Self-Improvement App. No.1 in diet diary category in both App Store and Google Play in Korea, with over 1 million cumulative downloads
+##### Danofit Project (Jun 2021 - Sep 2021)
+Developed a personalized workout subscription service.
+- Onboarding Chatbot: Implemented real-time chatbot using Socket.IO to assess user's fitness level, goal intensity, and exercise experience. Designed conversation flow utilizing data structures such as linked lists and queues.
+- Developed personalized workout video and diet information delivery features.
+- Built achievement calculation and point reward system based on workout video playback data.
 
-### Dano Co., Ltd. | Software Development | October 2018 ~ January 2022
+#### Data Engineer (Nov 2018 - Aug 2019)
 
-Two-time winner of the Brand of the Year Award, a women's total diet solution
-- October 2018: Joined as a backend developer
-- November 2018 ~ August 2019: Served as the sole data engineer, developed the data dashboard
-- May 2019 ~ January 2022: Developed the Dano app as an Android app developer
+- **Internal Data Dashboard:** Eliminated the inconvenience of manually requesting data from server developers.
+- Built data pipeline based on Apache Spark, visualized through Zeppelin.
+- **Developed custom Helium library** when required graph types were unavailable.
+
+---
 
 ## Side Projects
 
-### [VisibilityTracker](https://github.com/hevinxx/visibility-tracker) | March 2024 ~
-- Jetpack Compose library
-- Detects when a Composable is exposed to a user by a certain percentage or more
-- Documented development process concerns, problems, solutions, and limitations in a [blog post](https://hevinxx.github.io/%EA%B0%9C%EB%B0%9C/2024/03/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EB%82%B4-%ED%99%94%EB%A9%B4-%EB%85%B8%EC%B6%9C-%EC%B6%94%EC%A0%81%ED%95%98%EA%B8%B0.html)
+### VisibilityTracker
+**Open Source Library** | 2023 - Present
 
-### 10p ([Google Play](https://play.google.com/store/apps/details?id=io.hevinxx.one_o_p) [App Store](https://apps.apple.com/kr/app/10p/id1671311718)) | January 2023 ~
+A library that accurately measures item visibility within nested scrolls in Jetpack Compose. Designed and open-sourced a solution that didn't exist in the Compose ecosystem at the time.
 
-- A reading record app developed alone as a side project
-- Implemented the app using Flutter and utilized Firebase Realtime Database for data
+### 10p
+**Reading Log App** | Jan 2023 - Present
 
-### Sleeponit (Currently discontinued) | June 2020 ~ March 2022
+A reading log app developed with Flutter. Solo project covering planning, design, development, and operations.
 
-- A dating app released on Play Store and App Store, but currently discontinued
-- Developed the app using Flutter
-- Developed the backend using Node.js and TypeScript
-- Developed chat features using Socket.IO
+### SleeponIt
+**Dating App** | Jun 2020 - Mar 2022 (Stopped)
 
-## Creative Activities
+Developed Flutter app and Node.js/TypeScript backend. Implemented real-time chat using Socket.IO.
 
-### [Pepper Note](https://maily.so/pepper.note)
+### hn-summary-and-translate
+**Hacker News Summary/Translation Service** | 2024
 
-A newsletter sharing "things you might wonder how I knew" - about 200 newsletters sent, over 1,600 subscribers, over 600,000 cumulative views.
+A service that summarizes top Hacker News articles, translates them to a configured language, and delivers via RSS. Built with vibe coding.
 
-### Composition
+### baby-future-face-generator
+**AI Baby Future Face Prediction** | 2024
 
-Dreamed of becoming a musician before becoming a developer, engaged in composition activities.
-- [이런 노래](https://youtu.be/iraqAN7sH9g?si=MGCakUEzfpjWSOwm)
-- [끝](https://youtu.be/0vbhKz5D6Xs?si=SlAf5lDa06CPoEDW)
-- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q?si=YicGqK85tE5r7BlZ)
+A web service that predicts a baby's future appearance using AI, based on parents' faces, baby's face, and current age. Built with vibe coding.
+
+---
+
+## Other Activities
+
+### Pepper Note
+**Newsletter** | [maily.so/pepper.note](https://maily.so/pepper.note)
+
+A newsletter sharing interesting tidbits and hidden gems.
+- 200+ newsletters published
+- 1,600+ subscribers
+- 600,000+ cumulative views
+
+### Music Composition
+Before becoming a developer, I pursued music composition.
+- [이런 노래](https://youtu.be/iraqAN7sH9g)
+- [끝](https://youtu.be/0vbhKz5D6Xs)
+- [용건만 간단히](https://youtu.be/SGqsWEd7e3Q)
 - [SoundCloud](https://soundcloud.com/hevinxx)
 
-### [AI Art](https://www.instagram.com/hevin_aug7)
+### AI Art
+**Instagram:** [@hevin_aug7](https://www.instagram.com/hevin_aug7)
 
-Engaging in art activities using ChatGPT and DALL-E
+Creating AI art using ChatGPT and DALL-E.
+
+---
 
 ## Education
 
-- Bachelor of Arts in Korean Language & Literature, Korea University | 2012 ~ 2019
-- Bachelor of Science in Mathematics, Korea University | 2012 ~ 2019
-- Spanish Department, Hanyoung Foreign Language High School | 2008 ~ 2011
+### Korea University
+**B.A. in Korean Language & Literature / B.S. in Mathematics — Double Major** | 2012 - 2019
+
+### Hanyoung Foreign Language High School
+**Spanish Language Department** | 2008 - 2011
